@@ -1,0 +1,9 @@
+name = str("Justine")
+weight = int(56+.05)
+pounds = float(123.4)
+mode= bool("true")
+
+print(name)
+print(weight)
+print(pounds)
+print(mode)
