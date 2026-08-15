@@ -1,0 +1,5 @@
+name = "Justine Garde"
+age = 19
+address = "San Isidro Santa Rita Pampanga"
+fav_color = "red"
+print('I am', name, 'I am', age, 'years old, and live in',adress, 'and my favorite color is', fav_color)
