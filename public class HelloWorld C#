@@ -1,0 +1,17 @@
+using System;
+
+public class HelloWorld 
+{
+    public static void Main(string[] args)
+    {
+     int myInt = 19;
+     string myString = "Justine Garde";
+     double myFloat = 50 + .4;
+     bool myBoolean = true;
+
+     Console.WriteLine (myInt);
+     Console.WriteLine (myString);
+     Console.WriteLine (myFloat);
+     Console.WritrLine (myBoolean);
+     {
+}   
