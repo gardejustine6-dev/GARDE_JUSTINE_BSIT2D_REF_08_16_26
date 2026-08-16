@@ -1,0 +1,9 @@
+using system;
+
+public class HelloWorld 
+{
+    public static void Main(string[] args)
+    {
+       Console.WriteLine ("I'm Justine Garde, I'm 19 years old.I'm from San Isidro, Santa Rita, Pampanga.");
+    }
+}
